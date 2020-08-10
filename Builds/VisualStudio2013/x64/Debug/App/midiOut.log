@@ -1,0 +1,1247 @@
+31/01/2020 18:29:22 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+31/01/2020 19:21:05 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+31/01/2020 19:21:05 => OpenMidiDevice ==> Entering, device = 'Automap MIDI'
+31/01/2020 19:21:11 => OpenMidiDevice ==> Entering, device = 'Microsoft GS Wavetable Synth'
+01/02/2020 17:16:25 => CloseMidiDevice ==> Entering, device = 'Microsoft GS Wavetable Synth'
+01/02/2020 17:16:25 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+01/02/2020 17:16:34 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 17:18:27 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 17:18:59 => OpenMidiDevice ==> Entering, device = 'Automap MIDI'
+01/02/2020 17:19:34 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+01/02/2020 17:35:27 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap MIDI'
+01/02/2020 17:35:27 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 17:35:27 => CloseMidiDevice ==> Entering, device = 'Automap MIDI'
+01/02/2020 17:35:27 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 17:35:27 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+01/02/2020 17:35:27 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 17:35:27 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 17:35:27 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 17:35:33 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+01/02/2020 17:35:33 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 17:35:33 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 17:35:33 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 17:35:33 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead Mixer'
+01/02/2020 17:35:33 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 17:35:33 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+01/02/2020 17:35:33 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 18:58:37 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap Propellerhead Mixer'
+01/02/2020 18:58:37 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 18:58:37 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+01/02/2020 18:58:37 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 18:58:37 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap MIDI'
+01/02/2020 18:58:37 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 18:58:37 => OpenMidiDevice ==> Entering, device = 'Automap MIDI'
+01/02/2020 18:58:37 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 18:58:51 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap MIDI'
+01/02/2020 18:58:51 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 18:58:51 => CloseMidiDevice ==> Entering, device = 'Automap MIDI'
+01/02/2020 18:58:51 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 18:58:51 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = ''
+01/02/2020 19:07:01 => SessionSingleton::ReleaseMidiDevice ==> panel = 1 and name = 'Automap MIDI'
+01/02/2020 19:07:01 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 19:07:01 => CloseMidiDevice ==> Entering, device = 'Automap MIDI'
+01/02/2020 19:07:01 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 19:07:01 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = 'Automap Propellerhead'
+01/02/2020 19:07:01 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 19:07:01 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 19:07:01 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 19:07:12 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = ''
+01/02/2020 19:07:12 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead Mixer'
+01/02/2020 19:07:12 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 19:07:12 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+01/02/2020 19:07:12 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 19:07:22 => SessionSingleton::ReleaseMidiDevice ==> panel = 1 and name = 'Automap Propellerhead'
+01/02/2020 19:07:22 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 19:07:22 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 19:07:22 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 19:07:22 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = ''
+01/02/2020 19:07:45 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap Propellerhead Mixer'
+01/02/2020 19:07:45 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 19:07:45 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+01/02/2020 19:07:45 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 19:07:45 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:07:45 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 19:07:45 => OpenMidiDevice ==> Entering, device = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:07:45 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 19:07:52 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:07:52 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 19:07:52 => CloseMidiDevice ==> Entering, device = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:07:52 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 19:07:52 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+01/02/2020 19:07:52 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 19:07:52 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 19:07:52 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 19:08:04 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+01/02/2020 19:08:04 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 19:08:04 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 19:08:04 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 19:08:04 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead Mixer'
+01/02/2020 19:08:04 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 19:08:04 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+01/02/2020 19:08:04 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 19:08:11 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap Propellerhead Mixer'
+01/02/2020 19:08:11 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 19:08:11 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+01/02/2020 19:08:11 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 19:08:11 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:08:11 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 19:08:11 => OpenMidiDevice ==> Entering, device = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:08:11 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 19:08:41 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:08:41 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 19:08:41 => CloseMidiDevice ==> Entering, device = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:08:41 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 19:08:41 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:08:41 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 19:08:41 => OpenMidiDevice ==> Entering, device = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:08:41 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 19:11:50 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:11:50 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 19:11:50 => CloseMidiDevice ==> Entering, device = 'Microsoft GS Wavetable Synth'
+01/02/2020 19:11:50 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 19:11:50 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap MIDI'
+01/02/2020 19:11:50 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 19:11:50 => OpenMidiDevice ==> Entering, device = 'Automap MIDI'
+01/02/2020 19:11:50 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 19:21:22 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = ''
+01/02/2020 19:21:22 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+01/02/2020 19:21:22 => SessionSingleton::AcquireMidiDevice ==> about to callback
+01/02/2020 19:21:22 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 19:21:22 => SessionSingleton::AcquireMidiDevice ==> done
+01/02/2020 19:21:41 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+01/02/2020 19:21:41 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+01/02/2020 19:21:41 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+01/02/2020 19:21:41 => SessionSingleton::ReleaseMidiDevice ==> done
+01/02/2020 19:21:41 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = ''
+04/02/2020 12:18:04 => SessionSingleton::AcquireMidiDevice ==> panel = 2 and name = 'Automap Propellerhead'
+04/02/2020 12:18:04 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 12:18:04 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 12:18:04 => OpenMidiDevice ==> Starting device out 's'
+04/02/2020 12:18:04 => OpenMidiDevice ==> Leaving
+04/02/2020 12:18:04 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 12:18:06 => SessionSingleton::ReleaseMidiDevice ==> panel = 2 and name = 'Automap Propellerhead'
+04/02/2020 12:18:06 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+04/02/2020 12:18:06 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 12:18:06 => CloseMidiDevice ==> Leaving
+04/02/2020 12:18:06 => SessionSingleton::ReleaseMidiDevice ==> done
+04/02/2020 12:18:06 => SessionSingleton::AcquireMidiDevice ==> panel = 2 and name = ''
+04/02/2020 12:18:35 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+04/02/2020 12:18:35 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 12:18:35 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 12:18:35 => OpenMidiDevice ==> Starting device out 's'
+04/02/2020 12:18:35 => OpenMidiDevice ==> Leaving
+04/02/2020 12:18:35 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 12:19:02 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+04/02/2020 12:19:02 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 12:19:02 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 12:19:02 => OpenMidiDevice ==> Starting device out 's'
+04/02/2020 12:19:02 => OpenMidiDevice ==> Leaving
+04/02/2020 12:19:02 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 12:19:02 => SessionSingleton::AcquireMidiDevice ==> panel = 2 and name = ''
+04/02/2020 12:21:20 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+04/02/2020 12:21:20 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 12:21:20 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 12:21:20 => OpenMidiDevice ==> Starting device out 's'
+04/02/2020 12:21:20 => OpenMidiDevice ==> Leaving
+04/02/2020 12:21:20 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 12:21:20 => SessionSingleton::AcquireMidiDevice ==> panel = 2 and name = ''
+04/02/2020 12:23:37 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+04/02/2020 12:23:37 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 12:23:37 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 12:23:37 => OpenMidiDevice ==> Starting device out 's'
+04/02/2020 12:23:37 => OpenMidiDevice ==> Leaving
+04/02/2020 12:23:37 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 12:23:37 => SessionSingleton::AcquireMidiDevice ==> panel = 2 and name = ''
+04/02/2020 12:23:46 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+04/02/2020 12:23:46 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+04/02/2020 12:23:46 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 12:23:46 => CloseMidiDevice ==> Leaving
+04/02/2020 12:23:46 => SessionSingleton::ReleaseMidiDevice ==> done
+04/02/2020 12:23:46 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = ''
+04/02/2020 12:26:16 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = ''
+04/02/2020 12:26:16 => SessionSingleton::AcquireMidiDevice ==> panel = 2 and name = ''
+04/02/2020 12:28:28 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = ''
+04/02/2020 12:28:28 => SessionSingleton::AcquireMidiDevice ==> panel = 2 and name = ''
+04/02/2020 12:34:14 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = ''
+04/02/2020 12:34:14 => SessionSingleton::AcquireMidiDevice ==> panel = 2 and name = ''
+04/02/2020 12:38:00 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = ''
+04/02/2020 12:38:00 => SessionSingleton::AcquireMidiDevice ==> panel = 2 and name = ''
+04/02/2020 14:27:22 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap MIDI'
+04/02/2020 14:27:22 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 14:27:22 => OpenMidiDevice ==> Entering, device = 'Automap MIDI'
+04/02/2020 14:27:22 => OpenMidiDevice ==> Starting device 's'
+04/02/2020 14:27:22 => OpenMidiDevice ==> Leaving
+04/02/2020 14:27:22 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 14:32:34 => SessionSingleton::AcquireMidiDevice ==> panel = 3 and name = 'Automap Propellerhead'
+04/02/2020 14:32:34 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 14:32:34 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 14:32:34 => OpenMidiDevice ==> Starting device 's'
+04/02/2020 14:32:34 => OpenMidiDevice ==> Leaving
+04/02/2020 14:32:34 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 14:32:52 => SessionSingleton::ReleaseMidiDevice ==> panel = 3 and name = 'Automap Propellerhead'
+04/02/2020 14:32:52 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+04/02/2020 14:32:52 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 14:32:52 => CloseMidiDevice ==> closing device = 'Automap Propellerhead'
+04/02/2020 14:32:52 => CloseMidiDevice ==> Leaving
+04/02/2020 14:32:52 => SessionSingleton::ReleaseMidiDevice ==> done
+04/02/2020 14:33:29 => SessionSingleton::AcquireMidiDevice ==> panel = 3 and name = 'Automap Propellerhead'
+04/02/2020 14:33:29 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 14:33:29 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 14:33:29 => OpenMidiDevice ==> Starting device 's'
+04/02/2020 14:33:29 => OpenMidiDevice ==> Leaving
+04/02/2020 14:33:29 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 14:33:42 => SessionSingleton::ReleaseMidiDevice ==> panel = 3 and name = 'Automap Propellerhead'
+04/02/2020 14:33:42 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+04/02/2020 14:33:42 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+04/02/2020 14:33:42 => CloseMidiDevice ==> closing device = 'Automap Propellerhead'
+04/02/2020 14:33:42 => CloseMidiDevice ==> Leaving
+04/02/2020 14:33:42 => SessionSingleton::ReleaseMidiDevice ==> done
+04/02/2020 14:33:42 => SessionSingleton::AcquireMidiDevice ==> panel = 3 and name = 'Automap Propellerhead Mixer'
+04/02/2020 14:33:42 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 14:33:42 => OpenMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+04/02/2020 14:33:42 => OpenMidiDevice ==> Starting device 's'
+04/02/2020 14:33:42 => OpenMidiDevice ==> Leaving
+04/02/2020 14:33:42 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 14:34:59 => SessionSingleton::ReleaseMidiDevice ==> panel = 3 and name = 'Automap Propellerhead Mixer'
+04/02/2020 14:34:59 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+04/02/2020 14:34:59 => CloseMidiDevice ==> Entering, device = 'Automap Propellerhead Mixer'
+04/02/2020 14:34:59 => CloseMidiDevice ==> closing device = 'Automap Propellerhead Mixer'
+04/02/2020 14:34:59 => CloseMidiDevice ==> Leaving
+04/02/2020 14:34:59 => SessionSingleton::ReleaseMidiDevice ==> done
+04/02/2020 14:57:33 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap MIDI'
+04/02/2020 14:57:33 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 14:57:33 => OpenMidiDevice ==> Entering, device = 'Automap MIDI'
+04/02/2020 14:57:33 => OpenMidiDevice ==> Starting device 's'
+04/02/2020 14:57:33 => OpenMidiDevice ==> Leaving
+04/02/2020 14:57:33 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 14:58:05 => CloseMidiDevice ==> closing device = 'Automap MIDI'
+04/02/2020 14:58:54 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap MIDI'
+04/02/2020 14:58:54 => SessionSingleton::AcquireMidiDevice ==> about to callback
+04/02/2020 14:58:54 => OpenMidiDevice ==> Entering, device = 'Automap MIDI'
+04/02/2020 14:58:54 => OpenMidiDevice ==> Starting device 's'
+04/02/2020 14:58:54 => OpenMidiDevice ==> Leaving
+04/02/2020 14:58:54 => SessionSingleton::AcquireMidiDevice ==> done
+04/02/2020 14:58:58 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap MIDI'
+04/02/2020 14:58:58 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+04/02/2020 14:58:58 => CloseMidiDevice ==> Entering, device = 'Automap MIDI'
+04/02/2020 14:58:58 => CloseMidiDevice ==> closing device = 'Automap MIDI'
+04/02/2020 14:58:58 => CloseMidiDevice ==> Leaving
+04/02/2020 14:58:58 => SessionSingleton::ReleaseMidiDevice ==> done
+FIRST REAL TEST
+06/02/2020 15:06:33 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:06:33 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:06:33 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:06:33 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:06:33 => OpenMidiDevice ==> Leaving
+06/02/2020 15:06:33 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:17:06 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:17:06 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:17:06 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:17:06 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:17:06 => OpenMidiDevice ==> Leaving
+06/02/2020 15:17:06 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:17:09 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 15:17:26 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:17:26 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:17:26 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:17:26 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:17:26 => OpenMidiDevice ==> Leaving
+06/02/2020 15:17:26 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:18:55 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 15:18:59 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:18:59 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:18:59 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:18:59 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:18:59 => OpenMidiDevice ==> Leaving
+06/02/2020 15:18:59 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:25:26 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:25:26 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:25:26 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:25:26 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:25:26 => OpenMidiDevice ==> Leaving
+06/02/2020 15:25:26 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:25:35 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 15:26:55 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:26:55 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:26:55 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:26:55 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:26:55 => OpenMidiDevice ==> Leaving
+06/02/2020 15:26:55 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:27:23 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:40:50 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:40:50 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:40:50 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:40:50 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:40:50 => OpenMidiDevice ==> Leaving
+06/02/2020 15:40:50 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:42:16 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:43:20 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:43:20 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:43:20 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:43:20 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:43:20 => OpenMidiDevice ==> Leaving
+06/02/2020 15:43:20 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:46:01 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:49:18 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:49:18 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:49:18 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:49:18 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:49:18 => OpenMidiDevice ==> Leaving
+06/02/2020 15:49:18 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:49:20 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 15:50:08 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:50:08 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:50:08 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:50:08 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:50:08 => OpenMidiDevice ==> Leaving
+06/02/2020 15:50:08 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:50:13 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:50:13 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:56:12 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:56:12 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:56:12 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:56:12 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:56:12 => OpenMidiDevice ==> Leaving
+06/02/2020 15:56:12 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:56:15 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:15 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:16 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:17 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:17 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:17 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:17 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:17 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:56:19 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:56:19 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:56:19 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:56:19 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:56:20 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:56:21 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:56:21 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:56:21 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:56:21 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:56:21 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:56:21 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:56:22 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:56:22 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:56:22 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:56:25 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 15:58:02 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 15:58:02 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 15:58:02 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 15:58:02 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 15:58:02 => OpenMidiDevice ==> Leaving
+06/02/2020 15:58:02 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 15:58:06 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:58:06 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:58:06 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:58:06 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:58:07 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:58:07 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:58:07 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:58:07 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 40 0 '
+06/02/2020 15:58:07 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 60 0 '
+06/02/2020 15:58:08 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 60 0 '
+06/02/2020 15:58:08 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 60 0 '
+06/02/2020 15:58:08 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 60 0 '
+06/02/2020 15:58:08 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:58:09 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:58:09 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 60 0 '
+06/02/2020 15:58:09 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 60 0 '
+06/02/2020 15:58:09 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:58:09 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 15:58:16 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:58:16 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:58:16 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:58:16 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:58:16 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:58:17 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:58:17 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:58:17 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 30 0 '
+06/02/2020 15:58:28 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 16:01:43 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:01:43 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:01:43 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:01:43 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:01:43 => OpenMidiDevice ==> Leaving
+06/02/2020 16:01:43 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:09:55 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:09:55 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:09:55 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:09:55 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:09:55 => OpenMidiDevice ==> Leaving
+06/02/2020 16:09:55 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:11:24 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:11:24 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:11:24 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:11:24 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:11:24 => OpenMidiDevice ==> Leaving
+06/02/2020 16:11:24 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:12:27 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 60 0 '
+06/02/2020 16:12:46 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 60 0 '
+06/02/2020 16:16:46 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 16:18:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 16:19:11 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '90 50 0 '
+06/02/2020 16:23:23 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:23:23 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:23:23 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:23:23 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:23:23 => OpenMidiDevice ==> Leaving
+06/02/2020 16:23:23 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:23:30 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 16:23:30 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 16:25:21 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 16:25:37 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:25:37 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:25:37 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:25:37 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:25:37 => OpenMidiDevice ==> Leaving
+06/02/2020 16:25:37 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:28:35 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:28:35 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:28:35 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:28:35 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:28:35 => OpenMidiDevice ==> Leaving
+06/02/2020 16:28:35 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:28:46 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 16:28:50 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 16:35:02 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:35:02 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:35:02 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:35:02 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:35:02 => OpenMidiDevice ==> Leaving
+06/02/2020 16:35:02 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:35:18 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x	
+06/02/2020 16:35:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 16:35:18 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x	
+06/02/2020 16:35:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 16:38:41 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:38:41 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:38:41 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:38:41 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:38:41 => OpenMidiDevice ==> Leaving
+06/02/2020 16:38:41 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:47:14 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x	
+06/02/2020 16:47:14 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 16:47:15 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x	
+06/02/2020 16:47:15 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 16:49:30 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:49:30 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:49:30 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:49:30 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:49:30 => OpenMidiDevice ==> Leaving
+06/02/2020 16:49:30 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:50:26 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x	
+06/02/2020 16:52:38 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 16:53:15 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 16:53:15 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 16:53:15 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 16:53:15 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 16:53:15 => OpenMidiDevice ==> Leaving
+06/02/2020 16:53:15 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 16:53:22 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x	
+06/02/2020 16:53:22 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x30 0x0 '
+06/02/2020 16:53:23 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x	
+06/02/2020 16:53:23 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x30 0x0 '
+06/02/2020 17:00:08 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 17:00:08 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 17:00:08 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 17:00:08 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 17:00:08 => OpenMidiDevice ==> Leaving
+06/02/2020 17:00:08 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 17:03:00 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 17:03:00 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 17:03:00 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 17:03:00 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 17:03:00 => OpenMidiDevice ==> Leaving
+06/02/2020 17:03:00 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 17:03:22 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:03:22 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:03:22 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:03:22 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:07:19 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 17:07:19 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 17:07:19 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 17:07:19 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 17:07:19 => OpenMidiDevice ==> Leaving
+06/02/2020 17:07:19 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 17:11:17 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:11:48 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:12:06 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:12:06 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:13:48 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x40 0x7f
+06/02/2020 17:13:48 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x40 0x7f '
+06/02/2020 17:13:48 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x40 0x00
+06/02/2020 17:13:48 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x40 0x0 '
+06/02/2020 17:13:49 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x51 0x7f
+06/02/2020 17:13:49 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x51 0x7f '
+06/02/2020 17:13:49 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x51 0x00
+06/02/2020 17:13:49 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x51 0x0 '
+06/02/2020 17:13:49 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x51 0x7f
+06/02/2020 17:13:49 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x51 0x7f '
+06/02/2020 17:13:50 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x51 0x00
+06/02/2020 17:13:50 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x51 0x0 '
+06/02/2020 17:13:50 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x51 0x7f
+06/02/2020 17:13:50 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x51 0x7f '
+06/02/2020 17:13:50 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x51 0x00
+06/02/2020 17:13:50 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x51 0x0 '
+06/02/2020 17:13:50 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x51 0x7f
+06/02/2020 17:13:50 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x51 0x7f '
+06/02/2020 17:13:50 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x51 0x00
+06/02/2020 17:13:50 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x51 0x0 '
+06/02/2020 17:18:26 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x50 0x7f
+06/02/2020 17:18:26 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x50 0x7f '
+06/02/2020 17:18:26 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x91 0x50 0x00
+06/02/2020 17:18:26 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x50 0x0 '
+06/02/2020 17:20:26 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 17:20:26 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 17:20:26 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 17:20:26 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 17:20:26 => OpenMidiDevice ==> Leaving
+06/02/2020 17:20:26 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 17:21:08 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:21:08 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:21:10 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:21:10 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:23:51 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:23:51 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:23:56 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:23:56 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:28:28 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 17:29:23 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 17:29:23 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 17:29:23 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 17:29:23 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 17:29:23 => OpenMidiDevice ==> Leaving
+06/02/2020 17:29:23 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 17:29:42 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x7f
+06/02/2020 17:29:42 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x7f '
+06/02/2020 17:29:42 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x00
+06/02/2020 17:29:42 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 17:34:26 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 17:34:26 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 17:34:26 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 17:34:26 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 17:34:26 => OpenMidiDevice ==> Leaving
+06/02/2020 17:34:26 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 17:36:32 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:36:32 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:36:32 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:36:32 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:37:49 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x7f
+06/02/2020 17:37:49 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x7f '
+06/02/2020 17:37:49 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x00
+06/02/2020 17:37:49 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 17:37:49 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x7f
+06/02/2020 17:37:49 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x7f '
+06/02/2020 17:37:49 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x00
+06/02/2020 17:37:49 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 17:37:58 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x30 0x7f
+06/02/2020 17:37:58 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x30 0x7f '
+06/02/2020 17:37:58 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x30 0x00
+06/02/2020 17:37:58 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x30 0x0 '
+06/02/2020 17:37:58 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x30 0x7f
+06/02/2020 17:37:58 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x30 0x7f '
+06/02/2020 17:37:58 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x30 0x00
+06/02/2020 17:37:58 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x30 0x0 '
+06/02/2020 17:38:01 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x60 0x7f
+06/02/2020 17:38:01 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x60 0x7f '
+06/02/2020 17:38:01 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x60 0x00
+06/02/2020 17:38:01 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x60 0x0 '
+06/02/2020 17:38:01 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x60 0x7f
+06/02/2020 17:38:01 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x60 0x7f '
+06/02/2020 17:38:01 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x60 0x00
+06/02/2020 17:38:01 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x60 0x0 '
+06/02/2020 17:38:01 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x60 0x7f
+06/02/2020 17:38:01 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x60 0x7f '
+06/02/2020 17:38:01 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x60 0x00
+06/02/2020 17:38:01 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x60 0x0 '
+06/02/2020 17:38:18 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x20 0x7f
+06/02/2020 17:38:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x20 0x7f '
+06/02/2020 17:38:18 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x20 0x00
+06/02/2020 17:38:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x20 0x0 '
+06/02/2020 17:38:18 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x30 0x7f
+06/02/2020 17:38:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x30 0x7f '
+06/02/2020 17:38:18 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x30 0x00
+06/02/2020 17:38:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x30 0x0 '
+06/02/2020 17:38:18 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x7f
+06/02/2020 17:38:18 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x7f '
+06/02/2020 17:38:19 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x00
+06/02/2020 17:38:19 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 17:38:19 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x60 0x7f
+06/02/2020 17:38:19 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x60 0x7f '
+06/02/2020 17:38:20 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x60 0x00
+06/02/2020 17:38:20 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x60 0x0 '
+06/02/2020 17:38:20 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x70 0x7f
+06/02/2020 17:38:20 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x70 0x7f '
+06/02/2020 17:38:20 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x70 0x00
+06/02/2020 17:38:20 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x70 0x0 '
+06/02/2020 17:41:58 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 17:41:58 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 17:41:58 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 17:41:58 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 17:41:58 => OpenMidiDevice ==> Leaving
+06/02/2020 17:41:58 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 17:42:43 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 17:43:26 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 17:43:26 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 17:43:26 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 17:43:26 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 17:43:26 => OpenMidiDevice ==> Leaving
+06/02/2020 17:43:26 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 17:47:57 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 17:47:57 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 17:47:57 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 17:47:57 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 17:47:57 => OpenMidiDevice ==> Leaving
+06/02/2020 17:47:57 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 17:49:02 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x7f
+06/02/2020 17:49:02 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x7f '
+06/02/2020 17:49:02 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x00
+06/02/2020 17:49:02 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 17:49:20 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x7f
+06/02/2020 17:49:20 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x7f '
+06/02/2020 17:49:20 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x00
+06/02/2020 17:49:20 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 17:49:38 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:49:38 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:49:38 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:49:38 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:49:38 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:49:38 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:49:38 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:49:38 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:49:38 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:49:38 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:49:38 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:49:38 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:49:39 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:49:39 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:49:39 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:49:39 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:49:39 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:49:39 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:49:39 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:49:39 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:49:39 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 17:49:39 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 17:49:39 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 17:49:39 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 17:50:32 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x41 0x7f
+06/02/2020 17:50:32 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x41 0x7f '
+06/02/2020 17:50:34 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x41 0x00
+06/02/2020 17:50:34 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x41 0x0 '
+06/02/2020 18:35:36 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 18:35:36 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 18:35:36 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 18:35:36 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 18:35:36 => OpenMidiDevice ==> Leaving
+06/02/2020 18:35:36 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 18:38:31 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+06/02/2020 18:46:08 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 18:46:08 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 18:46:08 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 18:46:08 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 18:46:08 => OpenMidiDevice ==> Leaving
+06/02/2020 18:46:08 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 18:46:23 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x7f
+06/02/2020 18:46:23 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x7f '
+06/02/2020 18:46:23 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x00
+06/02/2020 18:46:23 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 20:01:35 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 20:01:35 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 20:01:35 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 20:01:35 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 20:01:35 => OpenMidiDevice ==> Leaving
+06/02/2020 20:01:35 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 20:02:01 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x7f
+06/02/2020 20:02:01 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x7f '
+06/02/2020 20:02:01 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x00
+06/02/2020 20:02:01 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 20:02:33 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x7f
+06/02/2020 20:02:33 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x7f '
+06/02/2020 20:02:33 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x40 0x00
+06/02/2020 20:02:33 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x40 0x0 '
+06/02/2020 20:15:14 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+06/02/2020 20:15:14 => SessionSingleton::AcquireMidiDevice ==> about to callback
+06/02/2020 20:15:14 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+06/02/2020 20:15:14 => OpenMidiDevice ==> Starting device 's'
+06/02/2020 20:15:14 => OpenMidiDevice ==> Leaving
+06/02/2020 20:15:14 => SessionSingleton::AcquireMidiDevice ==> done
+06/02/2020 20:15:34 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x7f
+06/02/2020 20:15:34 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x7f '
+06/02/2020 20:15:35 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x50 0x00
+06/02/2020 20:15:35 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x50 0x0 '
+06/02/2020 20:16:10 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x71 0x7f
+06/02/2020 20:16:10 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x71 0x7f '
+06/02/2020 20:16:10 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x71 0x00
+06/02/2020 20:16:10 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x71 0x0 '
+06/02/2020 20:16:25 => CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+07/02/2020 12:00:50 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+07/02/2020 12:00:50 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 12:00:50 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+07/02/2020 12:00:50 => OpenMidiDevice ==> Leaving, bad device id
+07/02/2020 12:00:50 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 12:14:55 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+07/02/2020 12:14:55 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 12:14:55 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+07/02/2020 12:14:55 => OpenMidiDevice ==> Leaving, bad device id
+07/02/2020 12:14:55 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 15:06:37 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+07/02/2020 15:06:37 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 15:06:37 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+07/02/2020 15:06:37 => OpenMidiDevice ==> Leaving, bad device id
+07/02/2020 15:06:37 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 15:09:55 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+07/02/2020 15:09:55 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 15:09:55 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+07/02/2020 15:09:55 => OpenMidiDevice ==> Leaving, bad device id
+07/02/2020 15:09:55 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 15:15:17 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+07/02/2020 15:15:17 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 15:15:17 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+07/02/2020 15:15:17 => OpenMidiDevice ==> Leaving, bad device id
+07/02/2020 15:15:17 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 15:15:39 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+07/02/2020 15:15:39 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 15:15:39 => OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+07/02/2020 15:15:39 => OpenMidiDevice ==> Leaving, bad device id
+07/02/2020 15:15:39 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 15:30:48 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:30:48 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:30:48 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:30:48 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:34:33 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:34:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:34:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:34:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:34:33 => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+07/02/2020 15:35:06 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:35:06 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:35:06 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:35:06 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:35:06 => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+07/02/2020 15:36:02 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:36:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:36:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:36:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:36:02 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 15:36:31 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:36:31 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:36:31 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:36:31 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:36:31 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 15:58:21 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:58:21 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:58:21 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:58:21 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 16:34:54 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 16:34:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 16:34:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 16:34:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 16:48:09 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 16:48:09 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 16:48:09 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 16:48:09 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 16:48:45 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 16:48:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 16:48:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 16:48:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 16:48:45 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 17:01:26 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 17:01:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 17:01:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 17:01:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 17:01:26 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 17:04:24 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 17:04:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 17:04:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 17:04:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 17:04:24 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 17:05:12 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x7f
+07/02/2020 17:05:12 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x00
+07/02/2020 17:05:12 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x7f
+07/02/2020 17:05:12 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x00
+07/02/2020 17:05:12 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x7f
+07/02/2020 17:05:12 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x00
+07/02/2020 17:05:12 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x7f
+07/02/2020 17:05:13 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x00
+07/02/2020 17:05:13 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x7f
+07/02/2020 17:05:13 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x00
+07/02/2020 17:05:13 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x7f
+07/02/2020 17:05:13 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x00
+07/02/2020 17:05:13 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x7f
+07/02/2020 17:05:13 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x00
+07/02/2020 17:07:09 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 17:07:09 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 17:07:09 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 17:07:09 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 17:07:09 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 17:51:02 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 17:51:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 17:51:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 17:51:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 17:51:02 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 17:52:17 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 17:52:17 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 17:52:17 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 17:52:17 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 17:52:17 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 17:53:15 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+07/02/2020 17:53:15 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 17:53:15 => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+07/02/2020 17:53:15 => MainComponent::OpenMidiDevice ==> Starting device 's'
+07/02/2020 17:53:15 => MainComponent::OpenMidiDevice ==> Leaving
+07/02/2020 17:53:15 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 17:53:23 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x45 0x7f
+07/02/2020 17:53:23 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x45 0x7f '
+07/02/2020 17:53:23 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x45 0x00
+07/02/2020 17:53:23 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x45 0x0 '
+07/02/2020 17:58:39 => MainComponent::CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+07/02/2020 17:59:04 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 17:59:04 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 17:59:04 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 17:59:04 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 17:59:04 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 17:59:04 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+07/02/2020 17:59:04 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 17:59:04 => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+07/02/2020 17:59:04 => MainComponent::OpenMidiDevice ==> Starting device 's'
+07/02/2020 17:59:04 => MainComponent::OpenMidiDevice ==> Leaving
+07/02/2020 17:59:04 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 17:59:40 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x44 0x7f
+07/02/2020 17:59:40 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x44 0x7f '
+07/02/2020 17:59:40 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x44 0x00
+07/02/2020 17:59:40 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x44 0x0 '
+07/02/2020 17:59:54 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+07/02/2020 17:59:54 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 17:59:54 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+07/02/2020 17:59:54 => MainComponent::OpenMidiDevice ==> Starting device 's'
+07/02/2020 17:59:54 => MainComponent::OpenMidiDevice ==> Leaving
+07/02/2020 17:59:54 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 18:00:15 => MainComponent::handleIncomingMidiMessage ==> solo device out is not me
+07/02/2020 18:00:15 => MainComponent::handleIncomingMidiMessage ==> solo device out is not me
+07/02/2020 18:00:28 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x7f
+07/02/2020 18:00:28 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x54 0x7f '
+07/02/2020 18:00:28 => MainComponent::handleIncomingMidiMessage ==> Modified message about to be sent : 0x90 0x54 0x00
+07/02/2020 18:00:28 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x54 0x0 '
+07/02/2020 18:02:10 => MainComponent::CloseMidiDevice ==> closing device = 'Automap Propellerhead'
+07/02/2020 18:02:10 => MainComponent::CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+07/02/2020 18:12:53 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 18:12:53 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 18:12:53 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 18:12:53 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 18:12:53 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+07/02/2020 18:12:54 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+07/02/2020 18:12:54 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 18:12:54 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+07/02/2020 18:12:54 => MainComponent::OpenMidiDevice ==> Starting device 's'
+07/02/2020 18:12:54 => MainComponent::OpenMidiDevice ==> Leaving
+07/02/2020 18:12:54 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 18:12:54 => SessionSingleton::AcquireMidiDevice ==> panel = 1 and name = '7- Launchpad Mini'
+07/02/2020 18:12:54 => SessionSingleton::AcquireMidiDevice ==> about to callback
+07/02/2020 18:12:54 => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+07/02/2020 18:12:54 => MainComponent::OpenMidiDevice ==> Starting device 's'
+07/02/2020 18:12:54 => MainComponent::OpenMidiDevice ==> Leaving
+07/02/2020 18:12:54 => SessionSingleton::AcquireMidiDevice ==> done
+07/02/2020 18:13:12 => MainComponent::CloseMidiDevice ==> closing device = 'Automap Propellerhead'
+07/02/2020 18:13:12 => MainComponent::CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+09/02/2020 13:15:38.383 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:15:38.383 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:15:38.383 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:15:38.383 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:15:38.389 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:15:38.389 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:15:38.389 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:15:38.389 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:15:38.389 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:15:38.389 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:15:38.389 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 13:15:38.389 => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+09/02/2020 13:15:57.577 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:15:57.577 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:15:57.577 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:15:57.577 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:15:57.578 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:15:57.578 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:15:57.578 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:15:57.578 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:15:57.578 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:15:57.578 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:15:57.578 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 13:15:57.578 => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+09/02/2020 13:16:16.766 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:16:16.766 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:16:16.766 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:16:16.766 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:16:16.767 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:16:16.767 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:16:16.767 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:16:16.767 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:16:16.767 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:16:16.767 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:16:16.767 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 13:16:16.767 => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+09/02/2020 13:16:47.074 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:16:47.074 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:16:47.074 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:16:47.074 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:16:47.075 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:16:47.075 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:16:47.075 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:16:47.075 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:16:47.075 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:16:47.075 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:16:47.075 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 13:16:47.075 => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+09/02/2020 13:37:03.235 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:37:03.235 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:37:03.235 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:37:03.235 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:37:03.236 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:37:03.236 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:37:03.236 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:37:03.236 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:37:03.236 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:37:03.236 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:37:03.236 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 13:37:03.236 => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+09/02/2020 13:37:29.491 => MainComponent::CloseMidiDevice ==> closing device = 'Automap Propellerhead'
+09/02/2020 13:37:49.698 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:37:49.698 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:37:49.698 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:37:49.698 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:37:49.698 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:37:49.698 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:37:49.698 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:37:49.698 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:37:49.698 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:37:49.698 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:37:49.698 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 13:52:54.746 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:52:54.746 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:52:54.746 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:52:54.746 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:52:54.747 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:52:54.747 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:52:54.747 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:52:54.747 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:52:54.747 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:52:54.747 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:52:54.747 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 13:53:04.849 => MainComponent::CloseMidiDevice ==> closing device = 'Automap Propellerhead'
+09/02/2020 13:53:55.359 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:53:55.359 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:53:55.359 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:53:55.359 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:53:56.360 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:53:56.360 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:53:56.360 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:53:56.360 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:53:56.360 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:53:56.360 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:53:56.360 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 13:54:06.464 => MainComponent::CloseMidiDevice ==> closing device = 'Automap Propellerhead'
+09/02/2020 13:54:58.983 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:54:58.983 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:54:58.983 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:54:58.983 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:54:58.984 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:54:58.984 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:54:58.984 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:54:58.984 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:54:58.984 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:54:58.984 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:54:58.984 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 13:55:08.082 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 13:55:08.082 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 13:55:08.082 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 13:55:08.082 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 13:55:08.083 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 13:55:08.083 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 13:55:08.083 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 13:55:08.083 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 13:55:08.083 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 13:55:08.083 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 13:55:08.083 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 14:04:19.592 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 14:04:19.592 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 14:04:19.592 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 14:04:19.592 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 14:04:19.593 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 14:04:19.593 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 14:04:19.593 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 14:04:19.593 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 14:04:19.593 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 14:04:19.593 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 14:04:19.593 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 14:04:58.983 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 14:04:58.983 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 14:04:58.983 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 14:04:58.983 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 14:04:58.984 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 14:04:58.984 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 14:04:58.984 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 14:04:58.984 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 14:04:58.984 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 14:04:58.984 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 14:04:58.984 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 14:05:31.319 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 14:05:31.319 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 14:05:31.319 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 14:05:31.319 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 14:05:33.337 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 14:05:33.337 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 14:05:33.337 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 14:05:33.337 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 14:05:33.337 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 14:05:33.337 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 14:05:33.337 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 14:07:05.251 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 14:07:05.251 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 14:07:05.251 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 14:07:05.251 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 14:07:05.251 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 14:07:05.251 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 14:07:05.251 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 14:07:05.251 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 14:07:05.251 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 14:07:05.251 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 14:07:05.251 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 14:07:21.418 => MainComponent::CloseMidiDevice ==> closing device = 'Automap Propellerhead'
+09/02/2020 14:07:33.536 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 14:07:33.536 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 14:07:33.536 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 14:07:33.536 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 14:07:33.536 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+09/02/2020 14:07:33.537 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 14:07:33.537 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 14:07:33.537 => MainComponent::OpenMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 14:07:33.537 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 14:07:33.537 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 14:07:33.537 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 14:07:33.537 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 14:07:37.570 => SessionSingleton::ReleaseMidiDevice ==> panel = 0 and name = 'Automap Propellerhead'
+09/02/2020 14:07:37.570 => SessionSingleton::ReleaseMidiDevice ==> about to callback
+09/02/2020 14:07:37.570 => MainComponent::CloseMidiDevice ==> Entering, device = 'Automap Propellerhead'
+09/02/2020 14:07:37.570 => MainComponent::CloseMidiDevice ==> closing device = 'Automap Propellerhead'
+09/02/2020 14:07:37.570 => MainComponent::CloseMidiDevice ==> Leaving
+09/02/2020 14:07:37.570 => SessionSingleton::ReleaseMidiDevice ==> done
+09/02/2020 14:07:37.570 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = '7- Launchpad Mini'
+09/02/2020 14:07:37.570 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 14:07:37.570 => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+09/02/2020 14:07:37.570 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 14:07:37.570 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 14:07:37.570 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 14:07:37.570 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 14:07:42.620 => MainComponent::CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+09/02/2020 14:07:52.721 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 14:07:52.721 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 14:07:52.721 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 14:07:52.721 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 14:07:52.721 => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+09/02/2020 14:08:50.308 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 14:08:50.308 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 14:08:50.308 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 14:08:50.308 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 14:08:50.308 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+09/02/2020 14:08:50.309 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = '7- Launchpad Mini'
+09/02/2020 14:08:50.309 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 14:08:50.309 => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+09/02/2020 14:08:50.309 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 14:08:50.309 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 14:08:50.309 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 14:08:50.309 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 14:46:22.822 => MainComponent::Process ==> Modified message about to be sent : 0x91 0x28 0x80
+09/02/2020 14:46:22.822 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x28 0x80 '
+09/02/2020 14:46:22.823 => MainComponent::Process ==> Modified message about to be sent : 0x91 0x28 0x01
+09/02/2020 14:46:22.823 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x28 0x1 '
+09/02/2020 14:47:30.506 => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x38 0x810
+09/02/2020 14:47:30.506 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x38 0x90 '
+09/02/2020 14:47:30.507 => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x38 0x11
+09/02/2020 14:47:30.507 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x38 0x11 '
+09/02/2020 14:47:30.508 => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x38 0x810
+09/02/2020 14:47:30.508 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x38 0x90 '
+09/02/2020 14:47:30.509 => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x38 0x11
+09/02/2020 14:47:30.509 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x38 0x11 '
+09/02/2020 14:48:16.960 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.960 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.961 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.962 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.963 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.964 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.965 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.965 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.966 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.967 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.968 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:16.969 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:17.970 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:48:17.970 => MainComponent::handleIncomingMidiMessage ==> midi device out muted
+09/02/2020 14:57:38.585 => MainComponent::CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+09/02/2020 15:03:05.859 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 15:03:05.859 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 15:03:05.859 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 15:03:05.859 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 15:03:06.860 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+09/02/2020 15:03:06.860 => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = '7- Launchpad Mini'
+09/02/2020 15:03:06.860 => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 15:03:06.860 => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+09/02/2020 15:03:06.860 => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 15:03:06.860 => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 15:03:06.860 => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 15:03:06.860 => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 15:03:43.238 => MainComponent::Process ==> Modified message about to be sent : 0x90 0x35 0x7f
+09/02/2020 15:03:43.238 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x35 0x7f '
+09/02/2020 15:03:43.239 => MainComponent::Process ==> Modified message about to be sent : 0x90 0x35 0x00
+09/02/2020 15:03:43.239 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x90 0x35 0x0 '
+09/02/2020 15:04:27.673 => MainComponent::Process ==> Modified message about to be sent : 0x91 0x46 0x7f
+09/02/2020 15:04:27.673 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x46 0x7f '
+09/02/2020 15:04:27.674 => MainComponent::Process ==> Modified message about to be sent : 0x91 0x46 0x00
+09/02/2020 15:04:27.674 => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0x91 0x46 0x0 '
+ð (TID=000000000309C010) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+ð (TID=000000000309A300) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+ð (TID=000000000309C620) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+ð (TID=000000000309BD20) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+ð (TID=000000000309BD20) => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+0 (TID=0000000006159D10) => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = '7- Launchpad Mini'
+4 (TID=000000000615B930) => SessionSingleton::AcquireMidiDevice ==> about to callback
+4 (TID=000000000615BAE0) => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+@ (TID=0000000006168140) => MainComponent::OpenMidiDevice ==> Starting device 's'
+T (TID=000000000616B540) => MainComponent::OpenMidiDevice ==> Device started
+T (TID=000000000616F130) => MainComponent::OpenMidiDevice ==> Leaving
+T (TID=000000000616FD90) => SessionSingleton::AcquireMidiDevice ==> done
+t (TID=000000000305FDB0) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x46 0x810
+t (TID=0000000006270DE0) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x46 0x90 '
+t (TID=0000000000337B70) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x46 0x11
+t (TID=0000000003069380) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x46 0x11 '
+t (TID=0000000003069380) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x46 0x810
+t (TID=0000000003069380) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x46 0x90 '
+t (TID=000000000305FDB0) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x46 0x11
+t (TID=00000000061AAA10) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x46 0x11 '
+t (TID=00000000061AAA10) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x46 0x810
+t (TID=00000000061AAA10) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x46 0x90 '
+È (TID=0000000003069380) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x46 0x11
+È (TID=00000000061AAA10) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x46 0x11 '
+09/02/2020 15:14:08.484 (TID=000000000026EDB0) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+09/02/2020 15:14:08.484 (TID=000000000026EDB0) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+09/02/2020 15:14:08.484 (TID=000000000026EDB0) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+09/02/2020 15:14:08.484 (TID=000000000026EDB0) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+09/02/2020 15:14:08.484 (TID=000000000026EDB0) => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+09/02/2020 15:14:08.485 (TID=000000000026E860) => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = '7- Launchpad Mini'
+09/02/2020 15:14:08.485 (TID=000000000026E860) => SessionSingleton::AcquireMidiDevice ==> about to callback
+09/02/2020 15:14:08.485 (TID=000000000026E4D0) => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+09/02/2020 15:14:08.485 (TID=000000000026E4D0) => MainComponent::OpenMidiDevice ==> Starting device 's'
+09/02/2020 15:14:08.485 (TID=000000000026E4D0) => MainComponent::OpenMidiDevice ==> Device started
+09/02/2020 15:14:08.485 (TID=000000000026E4D0) => MainComponent::OpenMidiDevice ==> Leaving
+09/02/2020 15:14:08.485 (TID=000000000026E860) => SessionSingleton::AcquireMidiDevice ==> done
+09/02/2020 15:14:11.517 (TID=00000000061CF2A0) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x55 0x810
+09/02/2020 15:14:11.517 (TID=00000000061CF1C0) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x55 0x90 '
+09/02/2020 15:14:11.517 (TID=00000000061CF2A0) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x55 0x11
+09/02/2020 15:14:11.517 (TID=00000000061CF1C0) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x55 0x11 '
+09/02/2020 15:14:11.518 (TID=00000000061CF2A0) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x55 0x810
+09/02/2020 15:14:11.518 (TID=00000000061CF1C0) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x55 0x90 '
+09/02/2020 15:14:11.519 (TID=00000000061CF2A0) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x55 0x11
+09/02/2020 15:14:11.519 (TID=00000000061CF1C0) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x55 0x11 '
+09/02/2020 15:36:12.729 (TID=000000000026EEA0) => MainComponent::CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+12/03/2020 09:36:25.853 (TID=000000000026F450) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 09:36:25.853 (TID=000000000026F450) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 09:36:25.853 (TID=000000000026F450) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 09:36:25.853 (TID=000000000026F450) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 09:36:25.853 (TID=000000000026EF00) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+12/03/2020 10:04:28.686 (TID=0e) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 10:04:28.686 (TID= e) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 10:04:28.686 (TID=e) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 10:04:28.686 (TID=) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 10:04:28.686 (TID=pe) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+12/03/2020 10:06:47.074 (TID=7360) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 10:06:47.074 (TID=7360) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 10:06:47.074 (TID=7360) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 10:06:47.074 (TID=7360) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 10:06:47.074 (TID=7360) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+12/03/2020 10:57:07.277 (TID=6716) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 10:57:07.277 (TID=6716) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 10:57:07.277 (TID=6716) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 10:57:07.277 (TID=6716) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 10:57:07.277 (TID=6716) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+12/03/2020 11:53:12.928 (TID=7996) => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = '7- Launchpad Mini'
+12/03/2020 11:53:12.928 (TID=7996) => SessionSingleton::AcquireMidiDevice ==> about to callback
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::OpenMidiDevice ==> Starting device 's'
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::OpenMidiDevice ==> Device started
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::OpenMidiDevice ==> Leaving
+12/03/2020 11:53:12.928 (TID=7996) => SessionSingleton::AcquireMidiDevice ==> done
+12/03/2020 11:53:17.973 (TID=7668) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x27 0x810
+12/03/2020 11:53:17.973 (TID=7668) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x27 0x90 '
+12/03/2020 11:53:17.974 (TID=7668) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x27 0x11
+12/03/2020 11:53:17.974 (TID=7668) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x27 0x11 '
+12/03/2020 11:53:17.976 (TID=7668) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x27 0x810
+12/03/2020 11:53:17.976 (TID=7668) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x27 0x90 '
+12/03/2020 11:53:17.977 (TID=7668) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x27 0x11
+12/03/2020 11:53:17.977 (TID=7668) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x27 0x11 '
+12/03/2020 11:53:18.980 (TID=7668) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x27 0x810
+12/03/2020 11:53:18.980 (TID=7668) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x27 0x90 '
+12/03/2020 11:53:18.981 (TID=7668) => MainComponent::Process ==> Modified message about to be sent : 0xa1 0x27 0x11
+12/03/2020 11:53:18.981 (TID=7668) => MainComponent::BroadCast ==> Message to device '7- Launchpad Mini' : '0xa1 0x27 0x11 '
+12/03/2020 11:54:56.965 (TID=7996) => MainComponent::CloseMidiDevice ==> closing device = '7- Launchpad Mini'
+12/03/2020 21:01:43.034 (TID=6040) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 21:01:43.034 (TID=6040) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 21:01:43.034 (TID=6040) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 21:01:43.034 (TID=6040) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 21:01:43.034 (TID=6040) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+12/03/2020 21:04:51.913 (TID=9912) => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = '7- Launchpad Mini'
+12/03/2020 21:04:51.913 (TID=9912) => SessionSingleton::AcquireMidiDevice ==> about to callback
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::OpenMidiDevice ==> Starting device 's'
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::OpenMidiDevice ==> Device started
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::OpenMidiDevice ==> Leaving
+12/03/2020 21:04:51.913 (TID=9912) => SessionSingleton::AcquireMidiDevice ==> done
+12/03/2020 21:05:27.270 (TID=4684) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 21:05:27.270 (TID=4684) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 21:05:27.270 (TID=4684) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 21:05:27.270 (TID=4684) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 21:05:27.270 (TID=4684) => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+12/03/2020 21:05:27.270 (TID=4684) => SessionSingleton::AcquireMidiDevice ==> panel = 0 and name = '7- Launchpad Mini'
+12/03/2020 21:05:27.270 (TID=4684) => SessionSingleton::AcquireMidiDevice ==> about to callback
+12/03/2020 21:05:27.270 (TID=4684) => MainComponent::OpenMidiDevice ==> Entering, device = '7- Launchpad Mini'
+12/03/2020 21:05:27.270 (TID=4684) => MainComponent::OpenMidiDevice ==> Starting device 's'
+12/03/2020 21:05:27.270 (TID=4684) => MainComponent::OpenMidiDevice ==> Device started
+12/03/2020 21:05:27.270 (TID=4684) => MainComponent::OpenMidiDevice ==> Leaving
+12/03/2020 21:05:27.270 (TID=4684) => SessionSingleton::AcquireMidiDevice ==> done
+12/03/2020 21:06:39.995 (TID=8888) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 21:06:39.995 (TID=8888) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 21:06:39.995 (TID=8888) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 21:06:39.995 (TID=8888) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 21:06:39.995 (TID=8888) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+12/03/2020 21:07:38.588 (TID=5632) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 21:07:38.588 (TID=5632) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 21:07:38.588 (TID=5632) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 21:07:38.588 (TID=5632) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 21:07:38.588 (TID=5632) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+12/03/2020 21:08:22.026 (TID=9500) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 21:08:22.026 (TID=9500) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 21:08:22.026 (TID=9500) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 21:08:22.026 (TID=9500) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 21:08:22.026 (TID=9500) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+12/03/2020 21:09:18.589 (TID=3264) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 21:09:18.589 (TID=3264) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 21:09:18.589 (TID=3264) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 21:09:18.589 (TID=3264) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 21:09:18.589 (TID=3264) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present
+12/03/2020 21:15:19.191 (TID=6448) => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+12/03/2020 21:15:19.191 (TID=6448) => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+12/03/2020 21:15:19.191 (TID=6448) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+12/03/2020 21:15:19.191 (TID=6448) => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+12/03/2020 21:15:19.191 (TID=6448) => SessionSingleton::AcquireMidiDevice ==> Device '7- Launchpad Mini' not present

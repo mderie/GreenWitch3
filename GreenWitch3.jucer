@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="qzrd1C" name="GreenWitch3" projectType="guiapp" jucerVersion="5.4.3">
+  <MAINGROUP id="w7O8gX" name="GreenWitch3">
+    <GROUP id="{0A02FE71-C90D-3E24-FEB1-90793869B94A}" name="Resources">
+      <FILE id="Ea7P3U" name="Copy.bmp" compile="0" resource="1" file="Resources/Copy.bmp"/>
+      <FILE id="CD7o0O" name="Cut.bmp" compile="0" resource="1" file="Resources/Cut.bmp"/>
+      <FILE id="blTIe6" name="Paste.bmp" compile="0" resource="1" file="Resources/Paste.bmp"/>
+    </GROUP>
+    <GROUP id="{D5EDB5E6-C8BA-7103-FF64-FFD7E641CA6A}" name="Source">
+      <FILE id="aNI2wW" name="MidiMessageData.cpp" compile="1" resource="0"
+            file="Source/MidiMessageData.cpp"/>
+      <FILE id="BXobgy" name="MidiMessageData.hpp" compile="0" resource="0"
+            file="Source/MidiMessageData.hpp"/>
+      <FILE id="C7EDJ4" name="MidiDeviceData.cpp" compile="1" resource="0"
+            file="Source/MidiDeviceData.cpp"/>
+      <FILE id="WM6P9j" name="MidiDeviceData.hpp" compile="0" resource="0"
+            file="Source/MidiDeviceData.hpp"/>
+      <FILE id="kMS0rr" name="SessionData.cpp" compile="1" resource="0" file="Source/SessionData.cpp"/>
+      <FILE id="huOW1E" name="SessionData.hpp" compile="0" resource="0" file="Source/SessionData.hpp"/>
+      <FILE id="t62qFo" name="FlexComponent.cpp" compile="1" resource="0"
+            file="Source/FlexComponent.cpp"/>
+      <FILE id="Pt568k" name="FlexComponent.hpp" compile="0" resource="0"
+            file="Source/FlexComponent.hpp"/>
+      <FILE id="hvtUwc" name="CommonStuffs.hpp" compile="0" resource="0"
+            file="Source/CommonStuffs.hpp"/>
+      <FILE id="aSQcxO" name="ConfigurationFiles.cpp" compile="1" resource="0"
+            file="Source/ConfigurationFiles.cpp"/>
+      <FILE id="dTJkIL" name="ConfigurationFiles.hpp" compile="0" resource="0"
+            file="Source/ConfigurationFiles.hpp"/>
+      <FILE id="SafpuT" name="exprtk.hpp" compile="0" resource="0" file="Source/exprtk.hpp"/>
+      <FILE id="pev603" name="CommonStuffs.cpp" compile="1" resource="0"
+            file="Source/CommonStuffs.cpp"/>
+      <FILE id="NuIrkh" name="MainComponent.hpp" compile="0" resource="0"
+            file="Source/MainComponent.hpp"/>
+      <FILE id="IPyPHO" name="MainComponent.cpp" compile="1" resource="0"
+            file="Source/MainComponent.cpp"/>
+      <FILE id="FHZNsz" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <VS2013 targetFolder="Builds/VisualStudio2013">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../../library/JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2013>
+    <CODEBLOCKS_LINUX targetFolder="Builds/CodeBlocksLinux">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../library/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../../library/JUCE/modules"/>
+      </MODULEPATHS>
+    </CODEBLOCKS_LINUX>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
+</JUCERPROJECT>

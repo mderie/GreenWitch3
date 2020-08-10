@@ -1,0 +1,45 @@
+﻿Build started 15-Mar-20 18:19:44.
+     1>Project "C:\laboratory\GreenWitch3\Builds\VisualStudio2013\GreenWitch3_App.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I..\..\JuceLibraryCode /IC:\library\JUCE\modules /Zi /nologo /W4 /WX- /MP /Od /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D _WINDOWS /D DEBUG /D _DEBUG /D JUCER_VS2013_78A5020=1 /D JUCE_APP_VERSION=1.0.0 /D JUCE_APP_VERSION_HEX=0x10000 /D JucePlugin_Build_VST=0 /D JucePlugin_Build_VST3=0 /D JucePlugin_Build_AU=0 /D JucePlugin_Build_AUv3=0 /D JucePlugin_Build_RTAS=0 /D JucePlugin_Build_AAX=0 /D JucePlugin_Build_Standalone=0 /D JucePlugin_Build_Unity=0 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\App\\" /Fd"x64\Debug\App\\vc120.pdb" /Gd /TP /errorReport:prompt /bigobj ..\..\Source\MidiDeviceData.cpp ..\..\Source\SessionData.cpp ..\..\Source\FlexComponent.cpp ..\..\Source\MainComponent.cpp ..\..\Source\Main.cpp
+         MidiDeviceData.cpp
+         SessionData.cpp
+     1>..\..\Source\SessionData.cpp(300): error C2065: 'dsBusyInternal' : undeclared identifier
+     1>..\..\Source\SessionData.cpp(355): error C2065: 'dsBusyInternal' : undeclared identifier
+     1>..\..\Source\SessionData.cpp(373): error C2065: 'dsBusyExternal' : undeclared identifier
+         FlexComponent.cpp
+     1>..\..\Source\FlexComponent.cpp(434): warning C4100: 'height' : unreferenced formal parameter
+     1>..\..\Source\FlexComponent.cpp(434): warning C4100: 'width' : unreferenced formal parameter
+     1>..\..\Source\FlexComponent.cpp(488): warning C4100: 'in' : unreferenced formal parameter
+     1>..\..\Source\FlexComponent.cpp(488): warning C4100: 'name' : unreferenced formal parameter
+     1>..\..\Source\FlexComponent.cpp(493): warning C4100: 'in' : unreferenced formal parameter
+     1>..\..\Source\FlexComponent.cpp(493): warning C4100: 'name' : unreferenced formal parameter
+         MainComponent.cpp
+         Main.cpp
+     1>..\..\Source\Main.cpp(26): warning C4100: 'commandLine' : unreferenced formal parameter
+     1>..\..\Source\Main.cpp(48): warning C4100: 'commandLine' : unreferenced formal parameter
+     1>c:\laboratory\greenwitch3\source\exprtk.hpp(2978): warning C4512: 'exprtk::lexer::token_scanner' : assignment operator could not be generated (..\..\Source\MainComponent.cpp)
+                 c:\laboratory\greenwitch3\source\exprtk.hpp(2873) : see declaration of 'exprtk::lexer::token_scanner'
+     1>c:\laboratory\greenwitch3\source\exprtk.hpp(3083): warning C4512: 'exprtk::lexer::token_inserter' : assignment operator could not be generated (..\..\Source\MainComponent.cpp)
+                 c:\laboratory\greenwitch3\source\exprtk.hpp(2999) : see declaration of 'exprtk::lexer::token_inserter'
+     1>c:\laboratory\greenwitch3\source\exprtk.hpp(3170): warning C4512: 'exprtk::lexer::token_joiner' : assignment operator could not be generated (..\..\Source\MainComponent.cpp)
+                 c:\laboratory\greenwitch3\source\exprtk.hpp(3085) : see declaration of 'exprtk::lexer::token_joiner'
+     1>c:\laboratory\greenwitch3\source\exprtk.hpp(3248): warning C4512: 'exprtk::lexer::helper::commutative_inserter' : assignment operator could not be generated (..\..\Source\MainComponent.cpp)
+                 c:\laboratory\greenwitch3\source\exprtk.hpp(3188) : see declaration of 'exprtk::lexer::helper::commutative_inserter'
+     1>c:\laboratory\greenwitch3\source\exprtk.hpp(3421): warning C4512: 'exprtk::lexer::helper::operator_joiner' : assignment operator could not be generated (..\..\Source\MainComponent.cpp)
+                 c:\laboratory\greenwitch3\source\exprtk.hpp(3250) : see declaration of 'exprtk::lexer::helper::operator_joiner'
+     1>c:\laboratory\greenwitch3\source\exprtk.hpp(3506): warning C4512: 'exprtk::lexer::helper::bracket_checker' : assignment operator could not be generated (..\..\Source\MainComponent.cpp)
+                 c:\laboratory\greenwitch3\source\exprtk.hpp(3423) : see declaration of 'exprtk::lexer::helper::bracket_checker'
+     1>c:\laboratory\greenwitch3\source\exprtk.hpp(3569): warning C4512: 'exprtk::lexer::helper::numeric_checker' : assignment operator could not be generated (..\..\Source\MainComponent.cpp)
+                 c:\laboratory\greenwitch3\source\exprtk.hpp(3508) : see declaration of 'exprtk::lexer::helper::numeric_checker'
+     1>c:\laboratory\greenwitch3\source\exprtk.hpp(3807): warning C4512: 'exprtk::lexer::helper::sequence_validator' : assignment operator could not be generated (..\..\Source\MainComponent.cpp)
+                 c:\laboratory\greenwitch3\source\exprtk.hpp(3638) : see declaration of 'exprtk::lexer::helper::sequence_validator'
+     1>c:\laboratory\greenwitch3\source\exprtk.hpp(3892): warning C4512: 'exprtk::lexer::helper::sequence_validator_3tokens' : assignment operator could not be generated (..\..\Source\MainComponent.cpp)
+                 c:\laboratory\greenwitch3\source\exprtk.hpp(3809) : see declaration of 'exprtk::lexer::helper::sequence_validator_3tokens'
+     1>..\..\Source\MainComponent.cpp(39): error C2838: 'dsBusyInternal' : illegal qualified name in member declaration
+     1>..\..\Source\MainComponent.cpp(39): error C2065: 'dsBusyInternal' : undeclared identifier
+     1>Done Building Project "C:\laboratory\GreenWitch3\Builds\VisualStudio2013\GreenWitch3_App.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:11.56

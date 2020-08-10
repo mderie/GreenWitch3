@@ -1,0 +1,1513 @@
+21/01/2020 16:43:05 => Session start
+23/01/2020 18:19:52 => Session start
+23/01/2020 18:19:59 => Session stop
+23/01/2020 18:31:34 => Session start
+23/01/2020 18:31:42 => Session stop
+23/01/2020 18:32:34 => Session start
+23/01/2020 18:34:09 => Session start
+23/01/2020 18:34:14 => Session stop
+23/01/2020 18:35:45 => Session start
+23/01/2020 18:40:00 => Session start
+23/01/2020 18:40:08 => Session stop
+31/01/2020 11:33:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 11:33:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 11:33:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 11:33:08 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 11:33:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 11:33:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 11:33:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 11:33:08 => Session start
+31/01/2020 11:33:17 => Session stop
+31/01/2020 12:45:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 12:45:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 12:45:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 12:45:54 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 12:45:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 12:45:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 12:45:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 12:45:54 => Session start
+31/01/2020 12:46:20 => Session stop
+31/01/2020 13:06:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 13:06:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 13:06:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 13:06:00 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 13:06:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 13:06:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 13:06:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 13:06:00 => Session start
+31/01/2020 13:06:06 => Session stop
+31/01/2020 14:08:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:08:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:08:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:08:23 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:08:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:08:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:08:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:08:23 => Session start
+31/01/2020 14:08:52 => Session stop
+31/01/2020 14:17:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:17:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:17:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:17:58 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:17:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:17:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:17:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:17:58 => Session start
+31/01/2020 14:19:38 => Session stop
+31/01/2020 14:19:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:19:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:19:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:19:54 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:19:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:19:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:19:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:19:54 => Session start
+31/01/2020 14:22:27 => Session stop
+31/01/2020 14:22:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:22:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:22:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:22:41 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:22:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:22:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:22:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:22:41 => Session start
+31/01/2020 14:24:59 => Session stop
+31/01/2020 14:25:12 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:25:12 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:25:12 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:25:12 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:25:12 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:25:12 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:25:12 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:25:12 => Session start
+31/01/2020 14:28:19 => Session stop
+31/01/2020 14:28:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:28:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:28:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:28:35 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:28:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:28:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:28:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:28:35 => Session start
+31/01/2020 14:30:53 => Session stop
+31/01/2020 14:31:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:31:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:31:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:31:08 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:31:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:31:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:31:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:31:08 => Session start
+31/01/2020 14:33:51 => Session stop
+31/01/2020 14:34:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:34:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:34:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:34:33 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:34:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:34:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:34:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:34:33 => Session start
+31/01/2020 14:36:36 => Session stop
+31/01/2020 14:36:42 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:36:42 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:36:42 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:36:42 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:36:42 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:36:42 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:36:42 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:36:42 => Session start
+31/01/2020 14:43:21 => Session stop
+31/01/2020 14:43:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:43:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:43:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:43:35 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:43:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:43:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:43:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:43:35 => Session start
+31/01/2020 14:44:52 => Session stop
+31/01/2020 14:45:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:45:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:45:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:45:05 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:45:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:45:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:45:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:45:05 => Session start
+31/01/2020 14:49:53 => Session stop
+31/01/2020 14:50:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:50:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:50:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:50:00 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:50:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:50:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:50:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:52:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:52:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:52:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:52:23 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:52:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:52:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:52:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:53:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 14:53:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 14:53:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:53:20 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 14:53:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 14:53:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 14:53:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 14:56:16 => Session stop
+31/01/2020 15:31:13 => Session start
+31/01/2020 15:31:13 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 15:31:13 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 15:31:13 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 15:31:13 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 15:31:13 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 15:31:13 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 15:31:13 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 15:31:42 => Session stop
+31/01/2020 15:55:13 => Session start
+31/01/2020 15:55:13 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 15:55:13 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 15:55:13 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 15:55:13 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 15:55:13 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 15:55:13 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 15:55:13 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 15:55:32 => Session stop
+31/01/2020 18:02:21 => Session start
+31/01/2020 18:02:21 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:02:21 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:02:21 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:02:21 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:02:21 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:02:21 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:02:21 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:03:05 => Session stop
+31/01/2020 18:05:04 => Session start
+31/01/2020 18:05:04 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:05:04 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:05:04 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:05:04 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:05:04 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:05:04 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:05:04 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:05:06 => Session stop
+31/01/2020 18:05:10 => Session start
+31/01/2020 18:05:11 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:05:11 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:05:11 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:05:11 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:05:11 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:05:11 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:05:11 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:05:53 => Session start
+31/01/2020 18:05:53 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:05:53 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:05:53 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:05:53 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:05:53 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:05:53 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:05:53 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:08:04 => Session start
+31/01/2020 18:08:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:08:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:08:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:08:05 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:08:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:08:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:08:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:09:03 => Session start
+31/01/2020 18:09:03 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:09:03 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:09:03 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:09:03 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:09:03 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:09:03 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:09:03 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:10:21 => Session start
+31/01/2020 18:10:22 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:10:22 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:10:22 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:10:22 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:10:22 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:10:22 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:10:22 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:20:41 => Session start
+31/01/2020 18:20:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:20:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:20:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:20:41 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:20:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:20:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:20:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:29:20 => Session start
+31/01/2020 18:29:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:29:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:29:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:29:20 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:29:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:29:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:29:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:29:24 => Session stop
+31/01/2020 18:29:27 => Session start
+31/01/2020 18:29:27 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:29:27 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:29:27 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:29:27 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:29:27 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:29:27 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:29:27 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:29:35 => Session stop
+31/01/2020 18:35:51 => Session start
+31/01/2020 18:35:51 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:35:51 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:35:51 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:35:51 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:35:51 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:35:51 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:35:51 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:36:17 => Session start
+31/01/2020 18:36:17 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:36:17 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:36:17 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:36:17 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:36:17 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:36:17 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:36:17 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:37:05 => Session start
+31/01/2020 18:37:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:37:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:37:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:37:05 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:37:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:37:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:37:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:37:57 => Session start
+31/01/2020 18:37:57 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:37:57 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:37:57 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:37:57 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:37:57 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:37:57 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:37:57 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:40:34 => Session start
+31/01/2020 18:40:34 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:40:34 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:40:34 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:40:34 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:40:34 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:40:34 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:40:34 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:41:36 => Session start
+31/01/2020 18:41:36 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 18:41:36 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 18:41:36 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 18:41:36 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 18:41:36 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 18:41:36 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 18:41:36 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 19:20:41 => Session start
+31/01/2020 19:20:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+31/01/2020 19:20:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+31/01/2020 19:20:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+31/01/2020 19:20:41 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+31/01/2020 19:20:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+31/01/2020 19:20:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+31/01/2020 19:20:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+31/01/2020 19:23:10 => Session stop
+01/02/2020 17:16:22 => Session start
+01/02/2020 17:16:22 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 17:16:22 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 17:16:22 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:16:22 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 17:16:22 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 17:16:22 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 17:16:22 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:19:54 => Session stop
+01/02/2020 17:35:24 => Session start
+01/02/2020 17:35:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 17:35:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 17:35:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:35:24 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 17:35:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 17:35:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 17:35:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:35:35 => Session stop
+01/02/2020 17:40:15 => Session start
+01/02/2020 17:40:15 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 17:40:15 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 17:40:15 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:40:15 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 17:40:15 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 17:40:15 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 17:40:15 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:40:19 => Session stop
+01/02/2020 17:40:28 => Session start
+01/02/2020 17:40:28 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 17:40:28 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 17:40:28 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:40:28 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 17:40:28 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 17:40:28 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 17:40:28 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:49:45 => Session start
+01/02/2020 17:49:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 17:49:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 17:49:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:49:45 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 17:49:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 17:49:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 17:49:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:55:07 => Session stop
+01/02/2020 17:55:16 => Session start
+01/02/2020 17:55:16 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 17:55:16 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 17:55:16 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:55:16 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 17:55:16 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 17:55:16 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 17:55:16 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:55:31 => Session stop
+01/02/2020 17:55:44 => Session start
+01/02/2020 17:55:44 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 17:55:44 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 17:55:44 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:55:44 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 17:55:44 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 17:55:44 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 17:55:44 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:56:30 => Session stop
+01/02/2020 17:59:18 => Session start
+01/02/2020 17:59:18 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 17:59:18 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 17:59:18 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:59:18 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 17:59:18 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 17:59:18 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 17:59:18 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 17:59:45 => Session stop
+01/02/2020 18:35:40 => Session start
+01/02/2020 18:35:40 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 18:35:40 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 18:35:40 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 18:35:40 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 18:35:40 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 18:35:40 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 18:35:40 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 18:36:03 => Session stop
+01/02/2020 18:57:13 => Session start
+01/02/2020 18:57:13 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 18:57:13 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 18:57:13 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 18:57:13 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 18:57:13 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 18:57:13 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 18:57:13 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 18:58:02 => Session stop
+01/02/2020 18:58:30 => Session start
+01/02/2020 18:58:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 18:58:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 18:58:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 18:58:30 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 18:58:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 18:58:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 18:58:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 18:59:36 => Session stop
+01/02/2020 19:00:24 => Session start
+01/02/2020 19:00:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:00:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:00:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:00:24 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:00:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:00:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:00:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:00:45 => Session stop
+01/02/2020 19:02:03 => Session start
+01/02/2020 19:02:03 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:02:03 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:02:03 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:02:03 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:02:03 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:02:03 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:02:03 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:06:31 => Session start
+01/02/2020 19:06:31 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:06:31 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:06:31 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:06:31 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:06:31 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:06:31 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:06:31 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:07:28 => Session stop
+01/02/2020 19:07:33 => Session start
+01/02/2020 19:07:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:07:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:07:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:07:33 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:07:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:07:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:07:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:07:54 => Session stop
+01/02/2020 19:07:58 => Session start
+01/02/2020 19:07:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:07:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:07:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:07:58 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:07:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:07:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:07:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:08:20 => Session stop
+01/02/2020 19:08:24 => Session start
+01/02/2020 19:08:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:08:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:08:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:08:24 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:08:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:08:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:08:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:08:44 => Session stop
+01/02/2020 19:09:00 => Session start
+01/02/2020 19:09:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:09:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:09:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:09:00 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:09:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:09:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:09:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:09:30 => Session stop
+01/02/2020 19:11:23 => Session start
+01/02/2020 19:11:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:11:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:11:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:11:23 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:11:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:11:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:11:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:11:55 => Session stop
+01/02/2020 19:13:41 => Session start
+01/02/2020 19:13:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:13:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:13:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:13:41 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:13:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:13:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:13:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:14:26 => Session stop
+01/02/2020 19:15:44 => Session start
+01/02/2020 19:15:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:15:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:15:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:15:45 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:15:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:15:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:15:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:16:00 => Session stop
+01/02/2020 19:17:09 => Session start
+01/02/2020 19:17:10 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:17:10 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:17:10 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:17:10 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:17:10 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:17:10 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:17:10 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:18:07 => Session stop
+01/02/2020 19:21:19 => Session start
+01/02/2020 19:21:19 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:21:19 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:21:19 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:21:19 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:21:19 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:21:19 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:21:19 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:21:43 => Session stop
+01/02/2020 19:24:59 => Session start
+01/02/2020 19:25:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:25:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:25:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:25:00 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:25:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:25:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:25:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:25:25 => Session stop
+01/02/2020 19:25:55 => Session start
+01/02/2020 19:25:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:25:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:25:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:25:55 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:25:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:25:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:25:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:26:17 => Session stop
+01/02/2020 19:26:46 => Session start
+01/02/2020 19:26:46 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+01/02/2020 19:26:46 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+01/02/2020 19:26:46 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+01/02/2020 19:26:46 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+01/02/2020 19:26:46 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+01/02/2020 19:26:46 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+01/02/2020 19:26:46 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 18:55:51 => Session start
+02/02/2020 18:55:51 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 18:55:51 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 18:55:51 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 18:55:51 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 18:55:51 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 18:55:51 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 18:55:51 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 18:56:04 => Session stop
+02/02/2020 19:25:58 => Session start
+02/02/2020 19:25:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 19:25:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 19:25:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 19:25:58 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 19:25:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 19:25:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 19:25:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 19:26:32 => Session stop
+02/02/2020 19:26:39 => Session start
+02/02/2020 19:26:39 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 19:26:39 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 19:26:39 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 19:26:39 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 19:26:39 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 19:26:39 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 19:26:39 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 19:27:14 => Session stop
+02/02/2020 20:05:12 => Session start
+02/02/2020 20:05:12 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 20:05:12 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 20:05:12 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:05:12 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 20:05:12 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 20:05:12 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 20:05:12 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:07:46 => Session start
+02/02/2020 20:07:46 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 20:07:46 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 20:07:46 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:07:46 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 20:07:46 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 20:07:46 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 20:07:46 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:10:59 => Session start
+02/02/2020 20:10:59 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 20:10:59 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 20:10:59 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:10:59 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 20:10:59 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 20:10:59 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 20:10:59 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:16:24 => Session stop
+02/02/2020 20:52:33 => Session start
+02/02/2020 20:52:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 20:52:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 20:52:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:52:33 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 20:52:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 20:52:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 20:52:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:52:35 => Session stop
+02/02/2020 20:55:37 => Session start
+02/02/2020 20:55:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 20:55:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 20:55:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:55:37 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 20:55:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 20:55:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 20:55:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:59:03 => Session start
+02/02/2020 20:59:03 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 20:59:03 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 20:59:03 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 20:59:03 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 20:59:03 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 20:59:03 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 20:59:03 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 21:04:50 => Session start
+02/02/2020 21:04:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 21:04:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 21:04:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 21:04:50 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 21:04:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 21:04:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 21:04:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 21:08:45 => Session start
+02/02/2020 21:08:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+02/02/2020 21:08:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+02/02/2020 21:08:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+02/02/2020 21:08:45 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+02/02/2020 21:08:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+02/02/2020 21:08:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+02/02/2020 21:08:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+02/02/2020 21:09:06 => Session stop
+03/02/2020 15:55:39 => Session start
+03/02/2020 15:55:39 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+03/02/2020 15:55:39 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+03/02/2020 15:55:39 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+03/02/2020 15:55:39 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+03/02/2020 15:55:39 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+03/02/2020 15:55:39 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+03/02/2020 15:55:39 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+03/02/2020 15:56:06 => Session stop
+04/02/2020 11:29:45 => Session start
+04/02/2020 11:29:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 11:29:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 11:29:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:29:45 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 11:29:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 11:29:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 11:29:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:30:45 => Session start
+04/02/2020 11:30:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 11:30:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 11:30:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:30:45 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 11:30:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 11:30:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 11:30:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:35:00 => Session start
+04/02/2020 11:35:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 11:35:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 11:35:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:35:00 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 11:35:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 11:35:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 11:35:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:36:22 => Session start
+04/02/2020 11:36:22 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 11:36:22 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 11:36:22 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:36:22 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 11:36:22 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 11:36:22 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 11:36:22 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:37:05 => Session start
+04/02/2020 11:37:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 11:37:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 11:37:05 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:37:05 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 11:37:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 11:37:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 11:37:05 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:37:19 => Session start
+04/02/2020 11:37:19 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 11:37:19 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 11:37:19 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:37:19 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 11:37:19 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 11:37:19 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 11:37:19 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:40:22 => Session start
+04/02/2020 11:40:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 11:40:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 11:40:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:40:23 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 11:40:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 11:40:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 11:40:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:44:53 => Session start
+04/02/2020 11:44:53 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 11:44:53 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 11:44:53 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:44:53 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 11:44:53 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 11:44:53 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 11:44:53 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:46:08 => Session stop
+04/02/2020 11:47:47 => Session start
+04/02/2020 11:47:47 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 11:47:47 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 11:47:47 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 11:47:47 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 11:47:47 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 11:47:47 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 11:47:47 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:03:40 => Session start
+04/02/2020 12:03:40 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:03:40 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:03:40 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:03:40 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:03:40 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:03:40 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:03:40 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:04:50 => Session start
+04/02/2020 12:04:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:04:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:04:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:04:50 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:04:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:04:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:04:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:05:49 => Session start
+04/02/2020 12:05:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:05:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:05:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:05:50 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:05:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:05:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:05:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:07:56 => Session stop
+04/02/2020 12:08:14 => Session start
+04/02/2020 12:08:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:08:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:08:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:08:14 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:08:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:08:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:08:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:08:58 => Session stop
+04/02/2020 12:14:30 => Session start
+04/02/2020 12:14:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:14:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:14:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:14:30 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:14:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:14:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:14:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:14:35 => Session stop
+04/02/2020 12:14:54 => Session start
+04/02/2020 12:14:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:14:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:14:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:14:54 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:14:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:14:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:14:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:18:44 => Session stop
+04/02/2020 12:19:02 => Session start
+04/02/2020 12:19:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:19:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:19:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:19:02 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:19:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:19:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:19:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:21:20 => Session start
+04/02/2020 12:21:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:21:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:21:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:21:20 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:21:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:21:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:21:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:21:22 => Session stop
+04/02/2020 12:23:37 => Session start
+04/02/2020 12:23:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:23:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:23:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:23:37 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:23:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:23:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:23:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:24:32 => Session stop
+04/02/2020 12:26:16 => Session start
+04/02/2020 12:26:16 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:26:16 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:26:16 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:26:16 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:26:16 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:26:16 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:26:16 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:26:18 => Session stop
+04/02/2020 12:28:27 => Session start
+04/02/2020 12:28:27 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:28:27 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:28:27 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:28:27 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:28:27 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:28:27 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:28:27 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:28:30 => Session stop
+04/02/2020 12:34:14 => Session start
+04/02/2020 12:34:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:34:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:34:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:34:14 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:34:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:34:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:34:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:34:19 => Session stop
+04/02/2020 12:37:59 => Session start
+04/02/2020 12:37:59 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 12:37:59 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 12:37:59 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:37:59 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 12:37:59 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 12:37:59 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 12:37:59 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 12:38:04 => Session stop
+04/02/2020 14:26:30 => Session start
+04/02/2020 14:26:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:26:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:26:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:26:30 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:26:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:26:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:26:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:27:01 => Session stop
+04/02/2020 14:27:09 => Session start
+04/02/2020 14:27:09 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:27:09 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:27:09 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:27:09 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:27:09 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:27:09 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:27:09 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:29:14 => Session start
+04/02/2020 14:29:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:29:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:29:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:29:14 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:29:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:29:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:29:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:29:41 => Session stop
+04/02/2020 14:31:43 => Session start
+04/02/2020 14:31:43 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:31:43 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:31:43 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:31:43 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:31:43 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:31:43 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:31:43 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:35:03 => Session stop
+04/02/2020 14:38:24 => Session start
+04/02/2020 14:38:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:38:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:38:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:38:24 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:38:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:38:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:38:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:38:26 => Session stop
+04/02/2020 14:39:20 => Session start
+04/02/2020 14:39:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:39:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:39:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:39:20 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:39:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:39:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:39:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:39:24 => Session stop
+04/02/2020 14:39:29 => Session start
+04/02/2020 14:39:29 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:39:29 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:39:29 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:39:29 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:39:29 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:39:29 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:39:29 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:39:35 => Session stop
+04/02/2020 14:39:49 => Session start
+04/02/2020 14:39:49 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:39:49 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:39:49 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:39:49 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:39:49 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:39:49 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:39:49 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:39:55 => Session stop
+04/02/2020 14:40:02 => Session start
+04/02/2020 14:40:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:40:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:40:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:40:02 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:40:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:40:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:40:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:40:06 => Session stop
+04/02/2020 14:40:33 => Session start
+04/02/2020 14:40:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:40:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:40:33 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:40:33 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:40:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:40:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:40:33 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:40:38 => Session stop
+04/02/2020 14:55:45 => Session start
+04/02/2020 14:55:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:55:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:55:45 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:55:45 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:55:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:55:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:55:45 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:55:48 => Session stop
+04/02/2020 14:56:47 => Session start
+04/02/2020 14:56:47 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:56:47 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:56:47 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:56:47 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:56:47 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:56:47 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:56:47 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:56:50 => Session stop
+04/02/2020 14:57:24 => Session start
+04/02/2020 14:57:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:57:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:57:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:57:24 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:57:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:57:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:57:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:57:35 => Session stop
+04/02/2020 14:58:54 => Session start
+04/02/2020 14:58:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+04/02/2020 14:58:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+04/02/2020 14:58:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:58:54 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+04/02/2020 14:58:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+04/02/2020 14:58:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+04/02/2020 14:58:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+04/02/2020 14:59:00 => Session stop
+06/02/2020 12:09:41 => MainComponent::MainComponent ==> Session start
+06/02/2020 12:09:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 12:09:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 12:09:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 12:09:41 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 12:09:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 12:09:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 12:09:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 12:10:38 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 12:11:50 => MainComponent::MainComponent ==> Session start
+06/02/2020 12:11:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 12:11:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 12:11:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 12:11:50 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 12:11:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 12:11:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 12:11:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 12:14:06 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 12:14:14 => MainComponent::MainComponent ==> Session start
+06/02/2020 12:14:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 12:14:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 12:14:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 12:14:14 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 12:14:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 12:14:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 12:14:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 12:15:33 => MainComponent::~MainComponent ==> Session stop
+FIRST REAL TEST
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Session start
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 14:58:56 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:08:34 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:17:09 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:17:26 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:18:55 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:18:59 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:25:26 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:25:35 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 15:26:54 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:26:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:26:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:26:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:26:55 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:26:55 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:26:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:26:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:26:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:26:55 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:40:50 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:43:19 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:43:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:43:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:43:20 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:43:20 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:43:20 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:43:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:43:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:43:20 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:43:20 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:49:18 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:49:20 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:50:08 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:56:12 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:56:25 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Session start
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 15:58:02 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 15:58:28 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:01:43 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:09:55 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:11:24 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:23:23 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 16:25:21 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:25:37 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:28:35 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:35:02 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:38:41 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:49:30 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Session start
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 16:53:15 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Session start
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:00:08 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 17:02:59 => MainComponent::MainComponent ==> Session start
+06/02/2020 17:03:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 17:03:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 17:03:00 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:03:00 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 17:03:00 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 17:03:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 17:03:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 17:03:00 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:03:00 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Session start
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:07:19 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Session start
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:20:26 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 17:28:28 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Session start
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:29:23 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Session start
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:34:25 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Session start
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:41:58 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 17:42:43 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Session start
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:43:26 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Session start
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 17:47:57 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 18:35:35 => MainComponent::MainComponent ==> Session start
+06/02/2020 18:35:36 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 18:35:36 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 18:35:36 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 18:35:36 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 18:35:36 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 18:35:36 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 18:35:36 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 18:35:36 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 18:35:36 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 18:38:31 => MainComponent::~MainComponent ==> Session stop
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Session start
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 18:46:08 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Session start
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 20:01:35 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Session start
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Found input midi device called '7- Launchpad Mini'
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+06/02/2020 20:15:14 => MainComponent::MainComponent ==> Found output midi device called '7- Launchpad Mini'
+06/02/2020 20:16:25 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 12:00:50 => MainComponent::MainComponent ==> Session start
+07/02/2020 12:00:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+07/02/2020 12:00:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+07/02/2020 12:00:50 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+07/02/2020 12:00:50 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 12:00:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 12:00:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 12:00:50 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 12:14:54 => MainComponent::MainComponent ==> Session start
+07/02/2020 12:14:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+07/02/2020 12:14:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+07/02/2020 12:14:54 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+07/02/2020 12:14:54 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 12:14:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 12:14:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 12:14:54 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 12:15:07 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 15:06:37 => MainComponent::MainComponent ==> Session start
+07/02/2020 15:06:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+07/02/2020 15:06:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+07/02/2020 15:06:37 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:06:37 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:06:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:06:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:06:37 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:07:17 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 15:09:55 => MainComponent::MainComponent ==> Session start
+07/02/2020 15:09:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+07/02/2020 15:09:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+07/02/2020 15:09:55 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:09:55 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:09:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:09:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:09:55 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:12:52 => MainComponent::MainComponent ==> Session start
+07/02/2020 15:12:52 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+07/02/2020 15:12:52 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+07/02/2020 15:12:52 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:12:52 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:12:52 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:12:52 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:12:52 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:15:23 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 15:15:31 => MainComponent::MainComponent ==> Session start
+07/02/2020 15:15:31 => MainComponent::MainComponent ==> Found input midi device called 'Automap MIDI'
+07/02/2020 15:15:31 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead'
+07/02/2020 15:15:31 => MainComponent::MainComponent ==> Found input midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:15:31 => MainComponent::MainComponent ==> Found output midi device called 'Microsoft GS Wavetable Synth'
+07/02/2020 15:15:31 => MainComponent::MainComponent ==> Found output midi device called 'Automap MIDI'
+07/02/2020 15:15:31 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead'
+07/02/2020 15:15:31 => MainComponent::MainComponent ==> Found output midi device called 'Automap Propellerhead Mixer'
+07/02/2020 15:30:48 => MainComponent::MainComponent ==> Session start
+07/02/2020 15:34:32 => MainComponent::MainComponent ==> Session start
+07/02/2020 15:35:05 => MainComponent::MainComponent ==> Session start
+07/02/2020 15:35:38 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 15:36:02 => MainComponent::MainComponent ==> Session start
+07/02/2020 15:36:08 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 15:36:31 => MainComponent::MainComponent ==> Session start
+07/02/2020 15:41:32 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 15:58:21 => MainComponent::MainComponent ==> Session start
+07/02/2020 16:07:01 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 16:34:53 => MainComponent::MainComponent ==> Session start
+07/02/2020 16:48:08 => MainComponent::MainComponent ==> Session start
+07/02/2020 16:48:40 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 16:48:45 => MainComponent::MainComponent ==> Session start
+07/02/2020 17:00:53 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 17:01:26 => MainComponent::MainComponent ==> Session start
+07/02/2020 17:04:24 => MainComponent::MainComponent ==> Session start
+07/02/2020 17:07:09 => MainComponent::MainComponent ==> Session start
+07/02/2020 17:10:27 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 17:51:02 => MainComponent::MainComponent ==> Session start
+07/02/2020 17:52:10 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 17:52:17 => MainComponent::MainComponent ==> Session start
+07/02/2020 17:58:39 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 17:59:04 => MainComponent::MainComponent ==> Session start
+07/02/2020 18:02:10 => MainComponent::~MainComponent ==> Session stop
+07/02/2020 18:12:53 => MainComponent::MainComponent ==> Session start
+07/02/2020 18:13:12 => MainComponent::~MainComponent ==> Session stop
+09/02/2020 13:15:25.251 => MainComponent::MainComponent ==> Session start
+09/02/2020 13:15:57.577 => MainComponent::MainComponent ==> Session start
+09/02/2020 13:16:08.686 => MainComponent::MainComponent ==> Session start
+09/02/2020 13:16:47.074 => MainComponent::MainComponent ==> Session start
+09/02/2020 13:37:03.235 => MainComponent::MainComponent ==> Session start
+09/02/2020 13:37:29.491 => MainComponent::~MainComponent ==> Session stop
+09/02/2020 13:37:49.697 => MainComponent::MainComponent ==> Session start
+09/02/2020 13:52:54.746 => MainComponent::MainComponent ==> Session start
+09/02/2020 13:53:04.849 => MainComponent::~MainComponent ==> Session stop
+09/02/2020 13:53:55.358 => MainComponent::MainComponent ==> Session start
+09/02/2020 13:54:06.464 => MainComponent::~MainComponent ==> Session stop
+09/02/2020 13:54:58.983 => MainComponent::MainComponent ==> Session start
+09/02/2020 13:55:08.081 => MainComponent::MainComponent ==> Session start
+09/02/2020 14:04:19.591 => MainComponent::MainComponent ==> Session start
+09/02/2020 14:04:58.983 => MainComponent::MainComponent ==> Session start
+09/02/2020 14:05:31.318 => MainComponent::MainComponent ==> Session start
+09/02/2020 14:07:05.250 => MainComponent::MainComponent ==> Session start
+09/02/2020 14:07:21.418 => MainComponent::~MainComponent ==> Session stop
+09/02/2020 14:07:33.536 => MainComponent::MainComponent ==> Session start
+09/02/2020 14:07:42.620 => MainComponent::~MainComponent ==> Session stop
+09/02/2020 14:07:52.720 => MainComponent::MainComponent ==> Session start
+09/02/2020 14:08:11.913 => MainComponent::~MainComponent ==> Session stop
+09/02/2020 14:08:50.307 => MainComponent::MainComponent ==> Session start
+09/02/2020 14:57:38.585 => MainComponent::~MainComponent ==> Session stop
+09/02/2020 15:03:05.857 => MainComponent::MainComponent ==> Session start
+l (TID=0000000003079700) => MainComponent::MainComponent ==> Session start
+09/02/2020 15:14:08.483 (TID=000000000026F000) => MainComponent::MainComponent ==> Session start
+09/02/2020 15:36:12.729 (TID=000000000026F240) => MainComponent::~MainComponent ==> Session stop
+12/03/2020 09:36:25.853 (TID=000000000026F6A0) => MainComponent::MainComponent ==> Session start
+12/03/2020 09:36:25.855 (TID=00000000086DF8D0) => MonitorMidiDevices::run ==> Session start
+12/03/2020 09:36:29.890 (TID=000000000026F8E0) => MainComponent::~MainComponent ==> Session stop
+12/03/2020 09:36:29.891 (TID=00000000086DF8D0) => MonitorMidiDevices::run ==> Session end
+12/03/2020 09:49:01.413 (TID=000000000029F3E0) => MainComponent::MainComponent ==> Session start
+12/03/2020 10:04:28.685 (TID= ™¸) => MainComponent::MainComponent ==> Session start
+12/03/2020 10:04:28.687 (TID=ÐÄº) => MonitorMidiDevices::run ==> Session start
+12/03/2020 10:04:30.709 (TID= X<) => MainComponent::~MainComponent ==> Session stop
+12/03/2020 10:04:31.711 (TID=@Y<) => MonitorMidiDevices::run ==> Session end
+12/03/2020 10:06:47.073 (TID=7360) => MainComponent::MainComponent ==> Session start
+12/03/2020 10:06:47.075 (TID=6452) => MonitorMidiDevices::run ==> Session start
+12/03/2020 10:06:49.093 (TID=7360) => MainComponent::~MainComponent ==> Session stop
+12/03/2020 10:06:49.095 (TID=6452) => MonitorMidiDevices::run ==> Session end
+12/03/2020 10:57:07.277 (TID=6716) => MainComponent::MainComponent ==> Session start
+12/03/2020 10:57:07.278 (TID=7216) => MonitorMidiDevices::run ==> Session start
+12/03/2020 11:53:04.848 (TID=6716) => MainComponent::~MainComponent ==> Session stop
+12/03/2020 11:53:05.850 (TID=7216) => MonitorMidiDevices::run ==> Session end
+12/03/2020 11:53:12.928 (TID=7996) => MainComponent::MainComponent ==> Session start
+12/03/2020 11:53:12.929 (TID=8848) => MonitorMidiDevices::run ==> Session start
+12/03/2020 11:54:56.964 (TID=7996) => MainComponent::~MainComponent ==> Session stop
+12/03/2020 11:54:56.965 (TID=8848) => MonitorMidiDevices::run ==> Session end
+12/03/2020 21:01:43.034 (TID=6040) => MainComponent::MainComponent ==> Session start
+12/03/2020 21:01:43.035 (TID=7572) => MonitorMidiDevices::run ==> Session start
+12/03/2020 21:03:46.265 (TID=6040) => MainComponent::~MainComponent ==> Session stop
+12/03/2020 21:03:46.266 (TID=7572) => MonitorMidiDevices::run ==> Session end
+12/03/2020 21:04:51.913 (TID=9912) => MainComponent::MainComponent ==> Session start
+12/03/2020 21:04:51.915 (TID=6588) => MonitorMidiDevices::run ==> Session start
+12/03/2020 21:05:26.269 (TID=4684) => MainComponent::MainComponent ==> Session start
+12/03/2020 21:05:27.272 (TID=6544) => MonitorMidiDevices::run ==> Session start
+12/03/2020 21:06:39.995 (TID=8888) => MainComponent::MainComponent ==> Session start
+12/03/2020 21:06:39.996 (TID=1644) => MonitorMidiDevices::run ==> Session start
+12/03/2020 21:07:38.587 (TID=5632) => MainComponent::MainComponent ==> Session start
+12/03/2020 21:07:39.595 (TID=8324) => MonitorMidiDevices::run ==> Session start
+12/03/2020 21:08:22.025 (TID=9500) => MainComponent::MainComponent ==> Session start
+12/03/2020 21:08:22.028 (TID=8792) => MonitorMidiDevices::run ==> Session start
+12/03/2020 21:09:18.589 (TID=3264) => MainComponent::MainComponent ==> Session start
+12/03/2020 21:09:19.592 (TID=10160) => MonitorMidiDevices::run ==> Session start
+12/03/2020 21:09:21.616 (TID=10160) => ArrayDiff ==> midi device 'Automap MIDI' is new
+12/03/2020 21:10:03.038 (TID=3264) => MainComponent::~MainComponent ==> Session stop
+12/03/2020 21:15:19.191 (TID=6448) => MainComponent::MainComponent ==> Session start
+12/03/2020 21:15:19.193 (TID=8752) => MonitorMidiDevices::run ==> Session start
+12/03/2020 21:15:19.193 (TID=8752) => ArrayDiff ==> midi device 'Automap MIDI' is new
+12/03/2020 21:15:19.193 (TID=8752) => ArrayDiff ==> midi device 'Automap Propellerhead' is new
+12/03/2020 21:15:19.193 (TID=8752) => ArrayDiff ==> midi device 'Automap Propellerhead Mixer' is new
+12/03/2020 21:15:19.193 (TID=8752) => ArrayDiff ==> midi device 'Microsoft GS Wavetable Synth' is new
+12/03/2020 21:15:19.193 (TID=8752) => ArrayDiff ==> midi device 'Automap MIDI' is new
+12/03/2020 21:15:19.193 (TID=8752) => ArrayDiff ==> midi device 'Automap Propellerhead' is new
+12/03/2020 21:15:19.193 (TID=8752) => ArrayDiff ==> midi device 'Automap Propellerhead Mixer' is new
+12/03/2020 21:15:32.323 (TID=8752) => ArrayDiff ==> midi device '7- Launchpad Mini' is new
+12/03/2020 21:15:32.323 (TID=8752) => ArrayDiff ==> midi device '7- Launchpad Mini' is new
+12/03/2020 21:15:57.573 (TID=8752) => ArrayDiff ==> midi device '7- Launchpad Mini' is gone
+12/03/2020 21:15:57.573 (TID=8752) => ArrayDiff ==> midi device '7- Launchpad Mini' is gone
+12/03/2020 21:18:09.897 (TID=6448) => MainComponent::~MainComponent ==> Session stop
+12/03/2020 21:18:09.899 (TID=8752) => MonitorMidiDevices::run ==> Session end
